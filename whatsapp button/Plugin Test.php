@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: plugin test
+Plugin Name: whatsapp button
 Plugin URI: 
-Description: plugin testy.
+Description: whatsapp button est un plugin wordpress qui vous permet de relier votre site web wordpress directement avec votre numéro whatsapp.
 Version: 1.0
 Author: NGOUMA TIMOTHEE FREDY
 Author URI: 
