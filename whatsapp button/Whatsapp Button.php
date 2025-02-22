@@ -10,7 +10,7 @@ License: GPL2
 */
 
 // The widget class
-class Plugin_Test extends WP_Widget {
+class Whatsapp_Button extends WP_Widget {
 
 	// Main constructor
 	public function __construct() {
@@ -96,6 +96,6 @@ class Plugin_Test extends WP_Widget {
 
 // Register the widget
 function my_register_custom_widget() {
-	register_widget( 'Plugin_Test' );
+	register_widget( 'Whatsapp_Button' );
 }
 add_action( 'widgets_init', 'my_register_custom_widget' );
